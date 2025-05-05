@@ -1,6 +1,6 @@
 # glados_checkin
-Glados Checkin 自动签到, 也添加了飞兔云的自动签到(域名随时换, 不稳定)
-Bash脚本, 运行方便, 为解析签到结果需要安装`jq`
+Glados Checkin 自动签到, 也添加了飞兔云的自动签到(域名随时换, 不稳定)  
+Bash脚本, 运行方便, 为解析签到结果需要安装`jq`  
 安装命令: yum install jq
 
 ### 一. Glados 自动签到
